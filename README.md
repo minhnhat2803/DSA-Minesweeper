@@ -3,10 +3,8 @@ A project for Data Structures &amp; Algorithms course  Resources
 Welcome!
 You just visited a repository for our project for Data Structures & Algorithms course !
 * About our team:
-1. Đinh Quang Hiển - ITITIU20201
-2. Nguyễn Hữu Minh Nhật - ITITIU20062
-3. Nguyễn Lê Minh - ITITIU20112
-4. Trương Hiếu Nghĩa - ITITIU19164
+1. Nguyễn Hữu Minh Nhật - ITITIU20062
+2. Nguyễn Nhật Anh Huy - ITITWE23031
 * About this game:
 * Game's name: MineSweeper.
 * Game's Genre: 2D, Logic.
@@ -16,4 +14,3 @@ We have also implemented an undo function using Stack! Everytime you clicked som
 P/S: The undo function does not take into account the case where you click on an 0 cell, it does allow you to revert the whole area you just open and you have to revert cell by cell. T.T
 * How to play the game, you asked?
 You just have to download this whole projecct into you driver (you don't have to download the report file though). Open this project with your IDE, looking for the main method in the 'GFrame' class and there we go. Enjoy your game!
-* UML: https://drive.google.com/file/d/1wv2g-dvHvPhhRLvDCFDg24P-HkHMozDb/view?usp=sharing
